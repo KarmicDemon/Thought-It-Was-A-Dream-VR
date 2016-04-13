@@ -1,4 +1,4 @@
 *.ini 
 *.log
 *.uproject
-/Content/StarterContent/Maps/*
+/Content/StarterContent/*
