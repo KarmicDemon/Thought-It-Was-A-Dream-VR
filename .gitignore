@@ -2,3 +2,5 @@
 *.log
 *.uproject
 /Content/StarterContent/*
+/Saved/*
+/Intermediate/*
